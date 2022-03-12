@@ -1,7 +1,6 @@
 # visualization_challenge
+Repository for the Baker Hughes Hackathon 2022 visualization challenge
 
-Participation in the Baker Hughes visualization challenge
-  
 ## Installation guide
 
 Please read [install.md](install.md) for details on how to set up this project.
